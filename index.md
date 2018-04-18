@@ -1,5 +1,5 @@
 ### HELLO PLANET
-title: Melodys guac
+title: Welcome to the My homepage!
 description: UMD 
 
 You can use the [editor on GitHub](https://github.com/mdastanl/potential-guacamole/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
